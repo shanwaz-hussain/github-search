@@ -34,12 +34,14 @@ A full-stack web app that lets users search for GitHub repositories by keyword, 
 
 ## 🖼️ Screenshots
 
-| Home & Search | Results Dashboard | Database (MySQL in Railway) |
-|---------------|------------------|-----------------------------|
-|<img width="1920" height="1020" alt="Screenshot 2025-08-28 204620" src="https://github.com/user-attachments/assets/4289deb7-fee3-4e9d-aa83-a8d3e68a52ec" />
- |<img width="1920" height="1020" alt="Screenshot 2025-08-28 204720" src="https://github.com/user-attachments/assets/8ea4b62c-1f99-43b9-bd6b-daedae059b21" />
- |<img width="1085" height="583" alt="Screenshot 2025-08-28 204900" src="https://github.com/user-attachments/assets/e0cbd7b3-d651-4bbb-acb8-7b9bc2c5e403" />
- |
+## Home & Search 
+<img width="1920" height="1020" alt="Screenshot 2025-08-28 204620" src="https://github.com/user-attachments/assets/4289deb7-fee3-4e9d-aa83-a8d3e68a52ec" />
+
+## Results Dashboard
+<img width="1920" height="1020" alt="Screenshot 2025-08-28 204720" src="https://github.com/user-attachments/assets/8ea4b62c-1f99-43b9-bd6b-daedae059b21" />
+
+## Database (MySQL in Railway)
+<img width="1085" height="583" alt="Screenshot 2025-08-28 204900" src="https://github.com/user-attachments/assets/e0cbd7b3-d651-4bbb-acb8-7b9bc2c5e403" />
 
 ---
 
