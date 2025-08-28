@@ -1,8 +1,12 @@
 # GitHub Repository Search – Full Stack Mini App
 
+---
+
 ## 📖 What is this project about?
 
 A full-stack web app that lets users search for GitHub repositories by keyword, fetches real-time data from the GitHub API via a custom Spring Boot backend, stores the results in a MySQL database, and displays everything in a neat, interactive dashboard.
+
+---
 
 ## 🔗 Project Flow
 
@@ -18,6 +22,7 @@ A full-stack web app that lets users search for GitHub repositories by keyword, 
 4. **Dashboard Display:**  
    The frontend fetches and displays all stored repositories in a paginated, filterable table.
 
+---
 
 ## 🌐 Live Demo and Code
 
@@ -31,7 +36,10 @@ A full-stack web app that lets users search for GitHub repositories by keyword, 
 
 | Home & Search | Results Dashboard | Database (MySQL in Railway) |
 |---------------|------------------|-----------------------------|
-| ![Home Screenshot](Screenshot-2025-08-28-204620.jpg) | ![Results Screenshot](Screenshot-2025-08-28-204720.jpg) | ![MySQL Screenshot](Screenshot-2025-08-28-204900.jpg) |
+| ![Home Screenshot]<img width="1920" height="1020" alt="Screenshot 2025-08-28 204620" src="https://github.com/user-attachments/assets/4289deb7-fee3-4e9d-aa83-a8d3e68a52ec" />
+ | ![Results Screenshot]<img width="1920" height="1020" alt="Screenshot 2025-08-28 204720" src="https://github.com/user-attachments/assets/8ea4b62c-1f99-43b9-bd6b-daedae059b21" />
+ | ![MySQL Screenshot]<img width="1085" height="583" alt="Screenshot 2025-08-28 204900" src="https://github.com/user-attachments/assets/e0cbd7b3-d651-4bbb-acb8-7b9bc2c5e403" />
+ |
 
 ---
 
