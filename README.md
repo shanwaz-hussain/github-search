@@ -1,7 +1,13 @@
 # GitHub Repository Search – Full Stack Mini App
 
 ---
+## 🌐 Live Demo and Code
 
+- **Live App:** [https://github-search-shanwaz.vercel.app/](https://github-search-shanwaz.vercel.app/)
+- **Frontend Source:** [github-search-frontend](https://github.com/shanwaz-hussain/github-search-frontend)
+- **Backend Source:** [githubrepoapi](https://github.com/shanwaz-hussain/githubrepoapi)
+
+---
 ## 📖 What is this project about?
 
 A full-stack web app that lets users search for GitHub repositories by keyword, fetches real-time data from the GitHub API via a custom Spring Boot backend, stores the results in a MySQL database, and displays everything in a neat, interactive dashboard.
@@ -21,15 +27,7 @@ A full-stack web app that lets users search for GitHub repositories by keyword, 
 
 4. **Dashboard Display:**  
    The frontend fetches and displays all stored repositories in a paginated, filterable table.
-
----
-
-## 🌐 Live Demo and Code
-
-- **Live App:** [https://github-search-shanwaz.vercel.app/](https://github-search-shanwaz.vercel.app/)
-- **Frontend Source:** [github-search-frontend](https://github.com/shanwaz-hussain/github-search-frontend)
-- **Backend Source:** [githubrepoapi](https://github.com/shanwaz-hussain/githubrepoapi)
-
+   
 ---
 
 ## 🖼️ Screenshots
