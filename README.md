@@ -40,7 +40,7 @@ A full-stack web app that lets users search for GitHub repositories by keyword, 
 ## Results Dashboard
 <img width="1920" height="1020" alt="Screenshot 2025-08-28 204720" src="https://github.com/user-attachments/assets/8ea4b62c-1f99-43b9-bd6b-daedae059b21" />
 
-## Database (MySQL in Railway)
+## Database (MySQL)
 <img width="1085" height="583" alt="Screenshot 2025-08-28 204900" src="https://github.com/user-attachments/assets/e0cbd7b3-d651-4bbb-acb8-7b9bc2c5e403" />
 
 ---
@@ -50,7 +50,6 @@ A full-stack web app that lets users search for GitHub repositories by keyword, 
 1. **Backend**
     - Set MySQL credentials in `application.properties`
     - Run with: `./mvnw spring-boot:run` or from your IDE
-    - MySQL must have a database named `githubrepo_db`
 
 2. **Frontend**
     - `npm install` then `npm start` in frontend folder
@@ -59,12 +58,6 @@ A full-stack web app that lets users search for GitHub repositories by keyword, 
 3. **Database**
     - Can be Railway/cloud or local MySQL
 
----
-
-## 📋 Credits
-
-- Uses [GitHub REST API](https://docs.github.com/en/rest)
-- Bonus: Responsive, modular, clean code—meets assignment and production standards
 
 ---
 
